@@ -8,7 +8,7 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I use light theme in VS Code
+⚡ Fun fact: I use Arch btw
 
 ---
 
