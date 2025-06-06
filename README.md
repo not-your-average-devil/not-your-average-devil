@@ -16,6 +16,8 @@
 
 #### Languages & Frameworks  
 ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react&logoSize=30) ![C](https://img.shields.io/badge/C-royalblue?style=flat&logo=c&logoSize=20) ![C++](https://img.shields.io/badge/CPP-royalblue?style=flat&logo=c%2B%2B&logoSize=20) ![JavaScript](https://img.shields.io/badge/Javascript-gray?style=flat&logo=javascript&logoSize=20) ![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoSize=20)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
 
 #### Backend & Databases  
 ![Git](https://img.shields.io/badge/Git-%23FF6F61?style=flat&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
