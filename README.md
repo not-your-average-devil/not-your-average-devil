@@ -8,7 +8,7 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I use light theme in my code editor
+⚡ Fun fact: I use nvim btw
 
 ---
 
