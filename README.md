@@ -16,7 +16,7 @@
 
 #### Languages & Frameworks  
 ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react&logoSize=30) ![C](https://img.shields.io/badge/C-royalblue?style=flat&logo=c&logoSize=20) ![C++](https://img.shields.io/badge/CPP-royalblue?style=flat&logo=c%2B%2B&logoSize=20) ![JavaScript](https://img.shields.io/badge/Javascript-gray?style=flat&logo=javascript&logoSize=20) ![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoSize=20)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  ![Lua](https://img.shields.io/badge/Lua-000080?style=flat&logo=lua&logoColor=white)
 
 
 #### Backend & Databases  
