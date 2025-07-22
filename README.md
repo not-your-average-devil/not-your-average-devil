@@ -1,8 +1,9 @@
 👋 Hi, I’m Aditya
 
-👀 I’m interested in programming machines
+👀 I am intreasted in CUDA programming  
+![CUDA](https://img.shields.io/badge/CUDA-NVIDIA-green?logo=nvidia&logoColor=white)
 
-🌱 I’m currently learning full stack
+🌱 I’m currently learning full stack and CUDA 
 
 📫 How to reach me: adityasmagrawal@gmail.com
 
